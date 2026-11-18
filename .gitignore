@@ -1,0 +1,10 @@
+# Test / experimental code
+scratch/
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Build files
+build/
